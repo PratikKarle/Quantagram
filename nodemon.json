@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"mernstack",
+        "DB_PASSWORD":"mernstack123",
+        "DB_NAME":"Production",
+        "JWT_KEY":"SUPERSECRET_DONT_SHARE"
+    }
+}
